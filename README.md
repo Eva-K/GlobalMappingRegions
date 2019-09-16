@@ -1,10 +1,12 @@
-# GlobalRegions
+# GlobalMappingRegions
 Region shapefiles and JSONs
 Author: Eva Kovacs
 Date: August 2019
 Shapefiles converted to JSON files in ArcPRO as follows.
 Polygon Select By Attribute.
 Feature to JSON:Output to GeoJSON and Project to WGS_1984.
+
+A separate repository exists for Field Planning and Sub-Regions (GlobalFieldPlanningEtc)
 
 
 # REGIONS
@@ -15,9 +17,3 @@ Feature to JSON:Output to GeoJSON and Project to WGS_1984.
 5. Central Indian Ocean
 
 
-# SUB-REGIONS
-A. Seribu_PhD_UQ_Yuwono
-
-
-# FIELD PLANNING
-1. Maldives
