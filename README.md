@@ -6,7 +6,7 @@ Shapefiles converted to JSON files in ArcPRO as follows.
 Polygon Select By Attribute.
 Feature to JSON:Output to GeoJSON and Project to WGS_1984.
 
-A separate repository exists for Field Planning and Sub-Regions (GlobalFieldPlanningEtc)
+A separate repository exists for Field Planning and Sub-Regions (GlobalRegions_FieldPlanning_Etc)
 
 
 # REGIONS
