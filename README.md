@@ -11,9 +11,9 @@ A separate repository exists for Field Planning and Sub-Regions (GlobalRegions_F
 
 # REGIONS
 1. South West Pacific
-2. Micronesia
-3. Northern Caribbean
-4. East Coast Africa
-5. Central Indian Ocean
+2. West Micronesia
+3. Northern Caribbean and Bahamas
+4. East Africa
+5. West Indian Ocean Islands
 
 
